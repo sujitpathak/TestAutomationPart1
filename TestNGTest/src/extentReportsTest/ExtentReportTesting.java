@@ -90,6 +90,7 @@ public class ExtentReportTesting {
 		Assert.assertEquals(s1,  "Success");
 		String dateFormat = new SimpleDateFormat("ddMMMyyyy_hhmmss").format(new Date());
 		System.out.println(dateFormat);
+		System.out.println("Extent Report Created");
 	}
 
 	@AfterMethod
