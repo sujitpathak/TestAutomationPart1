@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="784" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="784" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:43Z">
+      <class name="extentReportsTest.ExtentReportTesting">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="setExtent" is-config="true" duration-ms="255" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="myTest1()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="myTest1" duration-ms="19" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="setUp" is-config="true" duration-ms="0" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TetsReport(org.testng.ITestResult)[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="TetsReport" is-config="true" duration-ms="11" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myTest1 status=SUCCESS method=ExtentReportTesting.myTest1()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TetsReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="setUp" is-config="true" duration-ms="1" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="myTest2()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="myTest2" duration-ms="2" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest2 -->
+        <test-method status="PASS" signature="TetsReport(org.testng.ITestResult)[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="TetsReport" is-config="true" duration-ms="1" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myTest2 status=SUCCESS method=ExtentReportTesting.myTest2()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TetsReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="setUp" is-config="true" duration-ms="0" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="myTest3()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="myTest3" duration-ms="5" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest3 -->
+        <test-method status="PASS" signature="TetsReport(org.testng.ITestResult)[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="TetsReport" is-config="true" duration-ms="1" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myTest3 status=SUCCESS method=ExtentReportTesting.myTest3()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TetsReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:extentReportsTest.ExtentReportTesting@6767c1fc]" name="tearDown" is-config="true" duration-ms="453" started-at="2019-02-19T22:42:42Z" finished-at="2019-02-19T22:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- extentReportsTest.ExtentReportTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
